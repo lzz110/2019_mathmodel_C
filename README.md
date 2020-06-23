@@ -7,8 +7,8 @@
 
 ├── data                          // 数据集  <br>
 ├── doc                           // 文档  <br>
-├── res                          // 结果集  <br>
 ├── src                           // 源代码  <br>
+├── res                          // 结果集  <br>
 ├── Readme.md                     // help  <br>
 
  其他数学建模资料： 链接：https://pan.baidu.com/s/1Hi0iC6FsUT3lXD2O5vI-NA 提取码：ti0b
